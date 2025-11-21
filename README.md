@@ -1,15 +1,20 @@
 # **📂 Project Documentation Hub**
 
-> **This repository contains structured documentation, architecture overviews, feature explanations, and visual walkthroughs of my key projects including both public and private systems.**
-> **Each folder represents a dedicated project with its respective README for detailed insights.**
+> **This repository serves as a central documentation hub showcasing structured architectural insights, feature explanations, and visual walkthroughs of my key projects including both public and private implementations. Each folder represents a dedicated project with its respective README for detailed technical depth.**
+
 
 ---
 
 # **🔒 Source Code Access**
 
-> **To ensure ethical use and prevent misuse or unauthorized replication, the core source code for selected projects is kept private.**
-> **Access may be provided upon genuine request for evaluation, research, or collaboration purposes.**
+> **To ensure responsible use and prevent unauthorised replication, the core source code for selected projects remains private. Access may be granted upon genuine request for evaluation, professional review, or collaboration purposes.**
 
+---
+
+# **🧭 How to Use This Hub**
+
+> **Browse folders by project name to view detailed documentation, system design, and feature breakdowns.
+Each folder contains a dedicated README describing the project's objective, architecture, and implementation logic.**
 ---
 
 # **🎯 Purpose**
