@@ -32,8 +32,8 @@ Each folder contains a dedicated README describing the project's objective, arch
 
 # **👤 Author:  Nayan Darokar** 
 > **Aspiring Data Scientist | Intelligent Systems & Applied ML Engineering**
-> **Connect With Me Here:**
 
+> **Connect With Me Here:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
