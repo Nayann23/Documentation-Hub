@@ -218,18 +218,11 @@ See the LICENSE file for full details.
 
 ---
 
-## 👤 Author:  **Nayan Darokar** 
+# **👤 Author:  Nayan Darokar** 
+> **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
 
-## GitHub
-```bash
-https://github.com/Nayann23
-```
+> **Connect With Me Here:**
 
-## Email:
-```bash
-reachout.nayan@gmail.com  
-```
-## Portfolio: 
-```bash
-https://nayan-portfolio-nine.vercel.app/
-```
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://nayan-portfolio-nine.vercel.app/)
