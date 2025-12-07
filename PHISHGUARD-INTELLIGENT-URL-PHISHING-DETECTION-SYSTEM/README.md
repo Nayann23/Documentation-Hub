@@ -4,6 +4,14 @@
 
 ---
 
+## **Source Availiability**
+
+> **The core source implementation for this project is maintained in a private repository.**
+
+> **The code can be shared upon request for review or evaluation purposes.**
+
+---
+
 # **Dataset Source:**
 ```bash
 https://data.mendeley.com/datasets/vfszbj9b36/1 
@@ -221,6 +229,15 @@ http://127.0.0.1:5000
 # **🏁 Conclusion**
 
 > **PhishGuard offers a modern, intelligent, multi-layer phishing detection system with both practical ML components and engineered heuristics. It provides a polished experience suitable for demos, portfolios, teaching, and early-stage security engineering work.**
+
+
+---
+
+## **Source Availiability**
+
+> **The core source implementation for this project is maintained in a private repository.**
+
+> **The code can be shared upon request for review or evaluation purposes.**
 
 
 ---

@@ -5,6 +5,14 @@
 
 ---
 
+## **Source Availiability**
+
+> **The core source implementation for this project is maintained in a private repository.**
+
+> **The code can be shared upon request for review or evaluation purposes.**
+---
+
+
 # **Dataset Source:**  
 
 > **This project utilizes the Symptom–Disease Dataset published on Mendeley Data (Elsevier), a peer-reviewed academic repository. Full credit belongs to the original authors whose open dataset enabled this system.**
@@ -172,6 +180,15 @@ python app.py
 
 # **🏁 Conclusion**
 - **Symptom AI — Diagnostica presents a modern, intelligent, and practical disease prediction platform combining smart symptom intelligence with machine learning precision. Ideal for projects, demos, and healthcare AI learning.**
+
+---
+
+## **Source Availiability**
+
+> **The core source implementation for this project is maintained in a private repository.**
+
+> **The code can be shared upon request for review or evaluation purposes.**
+
 
 ---
 
