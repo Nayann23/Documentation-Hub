@@ -35,8 +35,11 @@ https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
 ## **🎯 Design Intent & Project Philosophy**
 
 > **In applied data science and machine learning, many projects often converge on the same datasets, models, and evaluation metrics.**  
+
 > **While model performance remains important, real-world impact depends equally on how insights are communicated, explored, and trusted**.
+
 > **The deliberate focus on a **polished, system-level UI** in this project was intentional.**
+
 > **Beyond model accuracy, this project was an opportunity to go beyond standard implementations and invest additional effort into **presentation, interaction, and system completeness** — areas that are frequently underrepresented in academic or tutorial-style projects.**
 
 ### **The design choices were made to:**
@@ -49,8 +52,7 @@ https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
 
 > **Elevate the project from a typical model demonstration to a complete, user-facing intelligence system.**
 
-> **This philosophy aligns with the belief that **engineers who aim to grow beyond baseline implementations must be willing to invest extra effort where it meaningfully improves clarity, usability, and trust**, not only raw metrics.
-Production-facing ML systems succeed when interpretability, usability, and engineering discipline receive the same level of attention as accuracy.**
+> **This philosophy aligns with the belief that **engineers who aim to grow beyond baseline implementations must be willing to invest extra effort where it meaningfully improves clarity, usability, and trust**, not only raw metrics.Production-facing ML systems succeed when interpretability, usability, and engineering discipline receive the same level of attention as accuracy.**
 
 
 ---
@@ -352,8 +354,9 @@ http://127.0.0.1:5000
 
 ## **Source Availiability**
 
-> **The core source implementation for this project is maintained in a private repository. The code can be shared upon request for review or evaluation purposes.**
+> **The core source implementation for this project is maintained in a private repository.**
 
+> **The code can be shared upon request for review or evaluation purposes.**
 
 
 
@@ -365,18 +368,15 @@ See the LICENSE file for full details.
 
 ---
 
-## 👤 Author:  **Nayan Darokar** 
+# **👤 Author:  Nayan Darokar** 
+> **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
 
-## GitHub
-```bash
-https://github.com/Nayann23
-```
+---
 
-## Email:
-```bash
-reachout.nayan@gmail.com  
-```
-## Portfolio: 
-```bash
-https://nayan-datascience-portfolio.vercel.app/
-```
+> **Connect With Me Here:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://nayan-portfolio-nine.vercel.app/)
+
+
