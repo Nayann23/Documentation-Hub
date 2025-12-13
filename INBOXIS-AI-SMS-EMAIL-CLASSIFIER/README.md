@@ -14,13 +14,11 @@
 
 
 **🔗 Visit Live App:**
-
-[![Live](https://img.shields.io/badge/Live–Site-1F2937?style=flat&logo=vercel&logoColor=white)](https://YOUR_DEPLOYED_APP_URL)
-[![Visit](https://img.shields.io/badge/Visit-000000?style=flat&logo=safari&logoColor=white)](https://YOUR_DEPLOYED_APP_URL)
-[![Open App](https://img.shields.io/badge/Open_App-111827?style=flat&logo=google-chrome&logoColor=9CA3AF)](https://YOUR_DEPLOYED_APP_URL)
-[![Launch](https://img.shields.io/badge/Launch-0B0F19?style=flat&logo=rocket&logoColor=6EE7B7)](https://YOUR_DEPLOYED_APP_URL)
-[![Live](https://img.shields.io/badge/●_Live-020617?style=flat&logo=vercel&logoColor=38BDF8)](https://YOUR_DEPLOYED_APP_URL)
-→ **[Live Site](https://YOUR_DEPLOYED_APP_URL)**
+[![Live Site](https://img.shields.io/badge/LIVE%20SITE-0B0F19?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_DEPLOYED_APP_URL)
+[![Launch App](https://img.shields.io/badge/LAUNCH%20APP-020617?style=for-the-badge&logo=rocket&logoColor=38BDF8)](https://YOUR_DEPLOYED_APP_URL)
+[![View Live](https://img.shields.io/badge/VIEW%20LIVE-030712?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://YOUR_DEPLOYED_APP_URL)
+[![Visit Site](https://img.shields.io/badge/VISIT%20SITE-000000?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_DEPLOYED_APP_URL)
+[![LIVE](https://img.shields.io/badge/●%20LIVE-020617?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://YOUR_DEPLOYED_APP_URL)
 
 
 ---
