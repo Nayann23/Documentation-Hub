@@ -15,7 +15,7 @@
 
 **🔗 Visit Live App:**
 
-[![Live Link](https://img.shields.io/badge/-Live-Link-FFA500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://infersis-ai.onrender.com)
+[![Visit App](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://infersis-ai.onrender.com)
 
 ---
 

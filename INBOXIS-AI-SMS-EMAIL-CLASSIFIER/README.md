@@ -14,12 +14,8 @@
 
 
 **🔗 Visit Live App:**
-[![Live Site](https://img.shields.io/badge/LIVE%20SITE-0B0F19?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_DEPLOYED_APP_URL)
-[![Launch App](https://img.shields.io/badge/LAUNCH%20APP-020617?style=for-the-badge&logo=rocket&logoColor=38BDF8)](https://YOUR_DEPLOYED_APP_URL)
-[![View Live](https://img.shields.io/badge/VIEW%20LIVE-030712?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://YOUR_DEPLOYED_APP_URL)
-[![Visit Site](https://img.shields.io/badge/VISIT%20SITE-000000?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_DEPLOYED_APP_URL)
-[![LIVE](https://img.shields.io/badge/●%20LIVE-020617?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://YOUR_DEPLOYED_APP_URL)
 
+[![Visit App](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://inboxis-ai.onrender.com)
 
 ---
 
