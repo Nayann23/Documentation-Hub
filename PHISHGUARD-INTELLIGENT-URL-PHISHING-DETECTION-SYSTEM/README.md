@@ -1,6 +1,10 @@
 # **🚀 PhishGuard — Intelligent URL Phishing Detection System**
 
-> **Advanced ML-powered phishing detection with layered security heuristics, real-time analysis, and an enterprise-grade UI.**
+> **PhishGuard is an advanced machine learning–powered phishing detection system that combines statistical learning models with layered security heuristics to evaluate URLs in real time.**
+
+> **The platform performs dynamic feature extraction from URL structures, applies rule-based threat intelligence checks, and leverages a trained XGBoost classifier to produce high-confidence phishing predictions.**
+ 
+> **By integrating real-time analysis, explainable threat scoring, and a security-focused, enterprise-grade user interface, PhishGuard delivers fast, transparent, and trustworthy URL risk assessments suitable for demonstrations, applied research, and early-stage security engineering use cases.**
 
 ---
 
@@ -10,10 +14,7 @@
 
 **Test URL classification, real-time threat scoring, vectorized feature analysis, and the security-focused intelligence console**
 
-
-**🔗 Visit Live App:**
-
-🔗 **Visit Live App:** [![VISIT APP](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://phishguard-intelligence.onrender.com)
+[![🔗 Visit Live App](https://img.shields.io/badge/🔗%20Visit%20Live%20App-000000?style=for-the-badge&logo=safari&logoColor=white)](https://phishguard-intelligence.onrender.com)
 
 
 ---
