@@ -157,6 +157,14 @@
 
 - **Serialized model artifacts using `joblib`**  
 
+[!IMPORTANT]
+
+## **⚡ Architectural Optimization Note**
+
+> **Production Choice: While this system includes a Deep Learning (ANN) implementation, the live console leverages a Gradient Boosting Engine to maintain a strict <500MB RAM footprint (optimized for Render Free Tier).**
+
+> **The Decision: To ensure 100% stability and sub-millisecond inference, I opted for a lean ML framework over a heavy DL stack, successfully prototyping a "TensorFlow-less" inference method using raw NumPy weight extraction (see Models/Optimization/) to minimize server-side overhead.**
+
 ---
 
 #### Backend Responsibilities (Flask)
