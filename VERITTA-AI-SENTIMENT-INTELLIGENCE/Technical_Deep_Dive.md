@@ -4,8 +4,6 @@
 
 ---
 
-# 📊 Veritta AI — Sentiment Intelligence & Explainable Review Analysis
-
 > [!TIP]
 > **In a hurry?** For a high-level overview of the sentiment engine, NLP pipeline, and XAI highlights, please refer to the **[Executive Summary (README.md)](./README.md)**.
 
