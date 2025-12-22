@@ -8,8 +8,6 @@
 
 ---
 
-# 🚀 RiskFlow v2.0 — Enterprise-Grade Customer Churn Intelligence
-
 > [!TIP]
 > **In a hurry?** For a high-level overview of the optimization logic, churn metrics, and engineering highlights, please refer to the **[Executive Summary (README.md)](./README.md)**.
 
