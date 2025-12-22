@@ -1,4 +1,4 @@
-# 🏛️ Project Documentation Hub
+# 🏛️ Documentation Hub
 
 > **A centralized repository for structured architectural insights, analytical deep dives, and visual walkthroughs of machine learning and intelligent system implementations.**
 
@@ -6,7 +6,7 @@
 
 ---
 
-# 📑 Project Catalog
+# 📑 Documentation Hub Catalog
 
 | System | Domain | Core Intelligence | Documentation |
 | :--- | :--- | :--- | :---: |
