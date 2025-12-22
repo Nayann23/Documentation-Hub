@@ -6,8 +6,6 @@
 
 ---
 
-# 🚨 [Project Name] — System Design Artifact
-
 > [!TIP]
 > **In a hurry?** For a high-level overview of the project objectives, tech stack, and key engineering highlights, please refer to the **[Executive Summary (README.md)](./README.md)**.
 
