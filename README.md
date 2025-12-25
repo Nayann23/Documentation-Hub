@@ -6,7 +6,7 @@
 
 ---
 
-# 📑 Documentation Hub Catalog
+## 📑 Documentation Hub Catalog
 
 | System | Domain | Core Intelligence | Documentation |
 | :--- | :--- | :--- | :---: |
@@ -17,8 +17,10 @@
 | **🩺 Symptom AI** | HealthTech | Intelligent Diagnostic Support Engine | [View Docs](./SYMPTOM-AI-DAIGNOSTICA/) |
 | **🎬 VectorCine AI** | Cinema | High-Dimensional Vector Similarity | [View Docs](./VECTORCINE-MOVIE-RECOMMENDATION-SYSTEM/) |
 | **📊 Veritta AI** | Analytics | Explainable Sentiment Intelligence | [View Docs](./VERITTA-AI-SENTIMENT-INTELLIGENCE/) |
+| **🧠 Neurovia AI** | MedTech | Deep Learning–Based Brain Tumor Detection | [View Docs](./NEUROVIA-BRAIN-TUMOR-DETECTION/) |
 
 ---
+
 
 ## 📁 **Project File Structure**
 
@@ -52,6 +54,11 @@
 | ├── `📁 Assets/` | XAI "Neural Breakdown" visualizations |
 | ├── `📄 README.md` | Sentiment heuristics and linguistic pipeline summary |
 | └── `📄 Technical_Deep_Dive.md` | Local feature attribution and SHAP-style explanation logic |
+| `📁 NEUROVIA-BRAIN-TUMOR-DETECTION/` | Deep learning–based medical imaging system for brain tumor classification |
+| ├── `📁 Assets/` | Model UI preview and medical scan visualization |
+| │   └── `🖼️ UI.png` | Application interface showcasing prediction results |
+| ├── `📄 README.md` | Project overview, dataset details, and model performance |
+| └── `📄 Technical_Deep_Dive.md` | CNN architecture, preprocessing pipeline, and evaluation metrics |
 | `📄 LICENSE` | Apache License 2.0 — Legal terms for documentation usage |
 | `📄 README.md` | Root Hub Documentation (this file) |
 
