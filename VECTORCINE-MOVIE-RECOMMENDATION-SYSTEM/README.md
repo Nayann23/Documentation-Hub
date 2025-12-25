@@ -49,7 +49,8 @@ To demonstrate a robust content-based recommendation pipeline that prioritizes *
 
 ---
 
-# **👤 Author: Nayan Darokar** > **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
+# **👤 Author: Nayan Darokar**
+> **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
 
 ---
 
