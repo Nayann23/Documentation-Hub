@@ -371,8 +371,6 @@ http://127.0.0.1:5000
 
 > **The code can be shared upon request for review or evaluation purposes.**
 
-
-
 ---
 ## **📜 License**
 
@@ -381,8 +379,10 @@ See the LICENSE file for full details.
 
 ---
 
-# **👤 Author:  Nayan Darokar** 
-> **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
+
+## **👤 Author: Nayan Darokar**
+
+#### **Aspiring Data Scientist — Intelligent Interfaces & ML Systems Engineering**
 
 ---
 

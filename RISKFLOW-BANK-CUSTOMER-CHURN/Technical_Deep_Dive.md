@@ -378,8 +378,9 @@
 ---
 
 
-# **👤 Author:  Nayan Darokar** 
-> **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
+## **👤 Author: Nayan Darokar**
+
+#### **Aspiring Data Scientist — Intelligent Interfaces & ML Systems Engineering**
 
 ---
 

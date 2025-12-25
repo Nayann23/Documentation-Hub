@@ -54,11 +54,12 @@ To demonstrate a robust approach to message security using classical ML, focusin
 
 ---
 
-## **👤 Author**
 
-**Nayan Darokar**
+## **👤 Author: Nayan Darokar**
 
-**Aspiring Data Scientist — Intelligent Interfaces & ML Systems Engineering**
+#### **Aspiring Data Scientist — Intelligent Interfaces & ML Systems Engineering**
+
+---
 
 > **Connect With Me Here:**
 

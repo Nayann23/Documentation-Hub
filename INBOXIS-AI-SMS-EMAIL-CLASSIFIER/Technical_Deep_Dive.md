@@ -396,11 +396,11 @@ See the `LICENSE` file for details.
 
 ---
 
-## **👤 Author**
+## **👤 Author: Nayan Darokar**
 
-**Nayan Darokar**
+#### **Aspiring Data Scientist — Intelligent Interfaces & ML Systems Engineering**
 
-**Aspiring Data Scientist — Intelligent Interfaces & ML Systems Engineering**
+---
 
 > **Connect With Me Here:**
 
