@@ -64,3 +64,6 @@ To demonstrate a robust churn intelligence workflow that prioritizes **system ob
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nayan-data-scientist-v2.vercel.app/)
+
+
